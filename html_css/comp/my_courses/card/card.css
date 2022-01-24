@@ -1,0 +1,59 @@
+.card {
+    width: 300px;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+    background-color: white;
+    border-radius: 12px 12px 12px 0px;
+}
+
+.course{
+    background: linear-gradient(0.35turn, #63b377, #3f87a6);
+    color:white;
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 12px 12px 0px 0px;
+}
+
+.course-box-icons {
+    margin-top: 0;
+    float: right;
+    margin-right: 13px;
+    width: 80px;
+    font-family: sans-serif;
+    padding: 0px 0px 0px 0px;
+}
+
+.course-box-icons * {
+    box-sizing: border-box;
+}
+
+.course-icons {
+    float: right;
+    width: 20px;
+    margin-top: 15px;
+    margin-right: 5px;
+    display: block;
+    border-radius: 50%;
+    color: var(--text-color);
+    transition: var(--tran-03);
+    font-size: 20px;
+}
+
+.course-links:hover {
+    cursor: pointer;
+}
+
+.under-course
+{
+    font-size: 13px;
+}
+
+.course-img {  
+    float: right;
+    margin-right: 10px;
+    width: 70px;
+    border-radius: 50%;
+    outline: 8px solid white;
+}
