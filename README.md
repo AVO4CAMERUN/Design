@@ -1,2 +1,4 @@
 # Design
-Analisi del design, divisione in componenti e scrittura di questi in HTML e CSS.
+Il design è composto da elementi scritti in HTML Tailwind come framework CSS.
+
+Il link della pagina per visualizzare tutto: [Link pagina]()
